@@ -6,4 +6,4 @@ Not yet Responsive
 //Free for collaboration to make this responsive
 
 
-Live site: 
+Live site: https://novice-is-me.github.io/Travel-Landpage/ 
